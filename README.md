@@ -2,15 +2,17 @@
 
 ## Summary of Assignment
 
-This repository contains my programming for data analysis assignment 2020.  it looks at the numpy.random package in python.  It will breifly introduce the overall purpose of the package and explain the use of the simple random data and permutation functions.  It explains the use and purpose of five distribusion functions the 1. , 2., 3., 4., 5., and finally it explains the use of seeds in generating pseudorandom numbers.  My notebook contains explanation for each of the   ??? lines of input code with   ?? lines of output code.
+This repository contains my programming for data analysis assignment 2020.  it looks at the numpy.random package in python.  It will breifly introduce the overall purpose of the package and explain the use of the simple random data and permutation functions.  It explains the use and purpose of five distribusion functions the 1.lognormal 2.multinomial, 3.multivariate_normal, 4.noncentral_f, 5.uniform, and finally it explains the use of seeds in generating pseudorandom numbers.  My notebook contains explanation for each of the   ??? lines of input code with   ?? lines of output code.
 
-I commenced work on this assignment on ?? October 2020 and completed work on ???? November 2020.
+I commenced work on this assignment on 23rd October 2020 and completed work on ???? November 2020.
 
 [See here for the Assignmetn Instruction 2020](https://github.com/LauraBrogan/2020-Programming-Assignment/blob/main/ProgDA_Assignment%20(3).pdf)
 
 ## Liabries used in this Assignment
 
-I impoted: 
+I impoted: Matplotlib
+
+* Matplolib is a Python 20 plotting library which produces publication quality figures in a variety of hardcopy formats and interactive enviroments across platforms. 
 
 
 
@@ -26,8 +28,8 @@ This repository contains the following files:
 + Licence file
 + 2020 Programming Assignment.ipynb - Jupyter notebook
 + README.md - This document
-+ 
-+ 
++ Distribution.PNG - Image of Distribution Dunctions
++ SimpleRandomData.JPG - Is an image of the Simple Random data Functions
 + 
 
 ## Running the Jupyter Notebook
@@ -45,4 +47,4 @@ Launch the Jupyter Notebook App (see previous section). In the Notebook Dashboar
 
 https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
 
-***Laura Brogan
+***Laura Brogan /11/2020
