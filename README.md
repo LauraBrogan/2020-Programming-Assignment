@@ -10,11 +10,11 @@ I commenced work on this assignment on 23rd October 2020 and completed work on ?
 
 ## Liabries used in this Assignment
 
-I impoted: Matplotlib
+I impoted: Matplotlib, Seaborn
 
 * Matplolib is a Python 20 plotting library which produces publication quality figures in a variety of hardcopy formats and interactive enviroments across platforms. 
 
-
+* Seaborn is a Python visualization library based on matplotlib.  It provides a hith=level interface for drawing attractive statistical graphics. 
 
 
 
