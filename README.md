@@ -4,7 +4,7 @@
 
 This repository contains my programming for data analysis assignment 2020.  it looks at the numpy.random package in python.  It will breifly introduce the overall purpose of the package and explain the use of the simple random data and permutation functions.  It explains the use and purpose of five distribusion functions the 1.lognormal 2.multinomial, 3.multivariate_normal, 4.noncentral_f, 5.uniform, and finally it explains the use of seeds in generating pseudorandom numbers.  My notebook contains explanation for each of the   ??? lines of input code with   ?? lines of output code.
 
-I commenced work on this assignment on 23rd October 2020 and completed work on ???? November 2020.
+I commenced work on this assignment on 23rd October 2020 and completed work on 22nd November 2020.
 
 [See here for the Assignmetn Instruction 2020](https://github.com/LauraBrogan/2020-Programming-Assignment/blob/main/ProgDA_Assignment%20(3).pdf)
 
@@ -14,7 +14,7 @@ I impoted: Matplotlib, Seaborn
 
 * Matplolib is a Python 20 plotting library which produces publication quality figures in a variety of hardcopy formats and interactive enviroments across platforms. 
 
-* Seaborn is a Python visualization library based on matplotlib.  It provides a hith=level interface for drawing attractive statistical graphics. 
+* Seaborn is a Python visualization library based on matplotlib.  It provides a high level interface for drawing attractive statistical graphics. 
 
 
 
@@ -30,9 +30,9 @@ This repository contains the following files:
 + README.md - This document
 + Distribution.PNG - Image of Distribution Dunctions
 + SimpleRandomData.JPG - Is an image of the Simple Random data Functions
-+ 
 
-## Running the Jupyter Notebook
+
+## Running the Jupyter Notebook *1*
 The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):
 
 jupyter notebook This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open.
@@ -45,6 +45,9 @@ Then follow these steps:
 
 Launch the Jupyter Notebook App (see previous section). In the Notebook Dashboard navigate to find the notebook: clicking on its name will open it in a new browser tab. Click on the menu Help -> User Interface Tour for an overview of the Jupyter Notebook App user interface. You can run the notebook document step-by-step (one cell a time) by pressing shift + enter. You can run the whole notebook in a single step by clicking on the menu Cell -> Run All. To restart the kernel (i.e. the computational engine), click on the menu Kernel -> Restart. This can be useful to start over a computation from scratch (e.g. variables are deleted, open files are closed, etc…).
 
-https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
+## References
+Readme References:
 
-***Laura Brogan /11/2020
+1.Running the Jupyter Notebook -  https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
+
+***Laura Brogan 22/11/2020
