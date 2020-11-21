@@ -2,9 +2,9 @@
 
 ## Summary of Assignment
 
-This repository contains my programming for data analysis assignment 2020.  it looks at the numpy.random package in python.  It will breifly introduce the overall purpose of the package and explain the use of the simple random data and permutation functions.  It explains the use and purpose of five distribusion functions the 1.lognormal 2.multinomial, 3.multivariate_normal, 4.noncentral_f, 5.uniform, and finally it explains the use of seeds in generating pseudorandom numbers.  My notebook contains explanation for each of the   ??? lines of input code with   ?? lines of output code.
+This repository contains my programming for data analysis assignment 2020.  It looks at the numpy.random package in python.  It will breifly introduce the overall purpose of the package and explain the use of the simple random data and permutation functions.  It explains the use and purpose of five distribusion functions the 1.lognormal 2.multinomial, 3.multivariate_normal, 4.noncentral_f, 5.uniform, and finally it explains the use of seeds in generating pseudorandom numbers.  My notebook contains explanation for each of the  24 lines of input code with  24 lines of output code.
 
-I commenced work on this assignment on 23rd October 2020 and completed work on 22nd November 2020.
+I commenced work on this assignment on 23rd October 2020 and completed work for the deadline of 22nd November 2020.
 
 [See here for the Assignmetn Instruction 2020](https://github.com/LauraBrogan/2020-Programming-Assignment/blob/main/ProgDA_Assignment%20(3).pdf)
 
@@ -15,7 +15,6 @@ I impoted: Matplotlib, Seaborn
 * Matplolib is a Python 20 plotting library which produces publication quality figures in a variety of hardcopy formats and interactive enviroments across platforms. 
 
 * Seaborn is a Python visualization library based on matplotlib.  It provides a high level interface for drawing attractive statistical graphics. 
-
 
 
 ## Downloading My Repositiory from git hub
@@ -50,4 +49,4 @@ Readme References:
 
 1.Running the Jupyter Notebook -  https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
 
-***Laura Brogan 22/11/2020
+***Laura Brogan 21/11/2020
